@@ -1,0 +1,1 @@
+//producto va a generar la ruta a metodos>producto>get / post / etc. y va a ejecutar los metodos segun de los pida
